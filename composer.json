@@ -1,0 +1,18 @@
+{
+    "name": "rajeshkumarpadhy/ninjamari",
+    "description": "Template for Nginx, PHP, Mariadb, Adminer, Docker",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rajeshkumarpadhy\\Ninjamari\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rajesh Kumar Padhy",
+            "email": "i.am.the.rajesh@gmail.com"
+        }
+    ],
+    "require": {}
+}
